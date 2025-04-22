@@ -1,8 +1,8 @@
-# Decoding the Mind: Cross-Modal Generation of Visual Stimuli from fMRI Data Using Diffusion Models
+# BRAID: Brain Representation to Artificial Image via Diffusion
 
 ## Description
 
-This project aims to develop a model that takes fMRI features and generates images similar to the original stimulus image. The goal is to reconstruct what a subject is seeing using only neuronal activity, particularly focusing on the primary visual cortex (V1) and higher cortices.
+**BRAID** is a project that aims to develop a model that takes fMRI features and generates images similar to the original stimulus image. The goal is to reconstruct what a subject is seeing using only neuronal activity, particularly focusing on the primary visual cortex (V1) and higher cortices.
 
 ## Proposal Document
 
