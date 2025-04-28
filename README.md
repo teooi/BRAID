@@ -34,8 +34,8 @@ This eliminates the need for auxiliary modalities and promotes subject generaliz
 ## Timeline
 
 | Week        | Milestone                                                |
-|-------------|-----------------------------------------------------------|
-| 4–6         | Literature review, data preprocessing, baseline analysis |
+|-------------|----------------------------------------------------------|
+| 5           | Literature review, data preprocessing, baseline analysis |
 | 6           | Model architecture setup                                 |
 | 7           | Implement distillation and contrastive loss              |
 | 8           | Model training                                           |
