@@ -2,6 +2,10 @@
 
 **BRAID** reconstructs images from fMRI brain activity using a cross-modal encoder and a pre-trained latent diffusion model (LDM). fMRI signals from the visual cortex are mapped into a latent space, which is then decoded into images by the frozen LDM and VAE decoder.
 
+## Paper
+
+[Project Paper (PDF)](https://drive.google.com/file/d/1h92bXM6hS_QO2BnhucL4EtekfjGzzScq/view?usp=sharing)
+
 ## Method
 
 - A lightweight MLP encodes fMRI feature vectors into latent representations.
