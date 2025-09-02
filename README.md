@@ -4,7 +4,7 @@
 
 ## Paper
 
-[Project Paper (PDF)](https://drive.google.com/file/d/1h92bXM6hS_QO2BnhucL4EtekfjGzzScq/view?usp=sharing)
+[Project Paper (PDF)](https://drive.google.com/file/d/1j9X0CCV02v-jsGaxnceoX1eZoIzQR_OL/view?usp=sharing)
 
 ## Method
 
